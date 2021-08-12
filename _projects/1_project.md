@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siervo de Dios
+title: Músico por devoción
 description: description of the short project which is long enough
 ---
 
