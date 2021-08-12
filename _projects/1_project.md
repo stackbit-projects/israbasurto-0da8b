@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Músico por devoción
-description: La musica es parte de mi vida
+description: La musica, parte de mi vida
 ---
 
 Example taken from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
