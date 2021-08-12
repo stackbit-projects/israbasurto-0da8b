@@ -9,4 +9,6 @@ Soy ingeniero de profesión, estudie lo referente a la informática, los sistema
 
 Aunque ciertamente soy un ingeniero me considero más bien un hacedor terrenal, por que también me gusta hacer musica ( una de mis pasiones ), crear, diseñar, fotografiar, vender y todo lo que llame mi curiosidad y que lo pueda aprender.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Este sitio esta dedicado a plasmar mis logros, conocimientos y pensamientos, es una forma de expresar mis ideas locas que tengo, por que ideas cuerdas las podemos encontrar a la vuelta de la esquina. Inspirar e inspirarme, ayudar y ayudarme, crecer y trascender.
+
+*Isra Basurto*
