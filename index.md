@@ -5,7 +5,7 @@ profile:
   image: profile.png
 published: true
 ---
-Ingeniero de profesión, músico por devoción, aprendedor de por vida y ahora diseñador por misión.
+Soy ingeniero de profesión, estudie lo referente a la informática, los sistemas y la tecnología, es por eso que no podía perdonarme el no tener un sitio web, es más yo creo que todas las personas deberían tener uno y aquí está el mio.
 
 If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
 
