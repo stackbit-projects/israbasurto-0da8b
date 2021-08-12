@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Short Project
+title: Siervo de Dios
 description: description of the short project which is long enough
 ---
 
